@@ -58,6 +58,7 @@
 - [Bureau of Labor Statistics](https://www.bls.gov/) – Employment, inflation, and wage data.
 - [Eurostat](https://ec.europa.eu/eurostat) – European Union economic statistics.
 - [UN Data](https://data.un.org/) – Global economic and social indicators.
+- [Statistics of the World](https://statisticsoftheworld.com/) — 440+ economic indicators for 218 countries from IMF, World Bank, WHO, and UN. Free API and interactive charts.
 - [Open Economic Data](https://openeconomicdata.org/) – Index of open economic datasets.
 
 ## Computational Economics
