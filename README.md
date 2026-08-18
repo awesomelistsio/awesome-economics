@@ -62,6 +62,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Eurostat](https://ec.europa.eu/eurostat) – European Union economic statistics.
 - [UN Data](https://data.un.org/) – Global economic and social indicators.
 - [Open Economic Data](https://openeconomicdata.org/) – Index of open economic datasets.
+- [HDD Price Index](https://github.com/AdamDudley/hddhunt-price-index) – Daily hard-drive cost-per-terabyte (USD/TB) price series by capacity tier; an open storage-economics price index. CSV/JSON/JSONL, CC BY 4.0.
 
 ## Computational Economics
 
