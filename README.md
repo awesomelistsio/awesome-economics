@@ -62,6 +62,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Eurostat](https://ec.europa.eu/eurostat) – European Union economic statistics.
 - [UN Data](https://data.un.org/) – Global economic and social indicators.
 - [Open Economic Data](https://openeconomicdata.org/) – Index of open economic datasets.
+- [Equipment Capital Index](https://www.equipmentcapitalindex.com/api/rate-report.json) – Free, open API and dataset for real commercial equipment financing rate and payment benchmarks, backed by a CC BY 4.0 dataset and Zenodo DOI.
 
 ## Computational Economics
 
